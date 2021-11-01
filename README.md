@@ -3,7 +3,7 @@
   Machine learning project with California hiusing dataset containing all steps for machine learning project
       
       
-      1. Feature Engineering (Scaling, Resampling, outlier detection, Merging feature, Dimensionalty Reduction ...)
+      1. **Feature Engineering** (Scaling, Resampling, outlier detection, Merging feature, Dimensionalty Reduction ...)
       
       2. Data Cleaning & Preprocessing
       
